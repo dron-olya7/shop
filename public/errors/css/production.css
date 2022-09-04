@@ -1,6 +1,6 @@
 html, body {
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
     overflow: hidden;
     margin: 0;
     padding: 0;
@@ -8,13 +8,23 @@ html, body {
     font-size: 16px;
 }
 body {
-    background: url('/public/errors/img/404.png') center no-repeat #262626;
-    /*background-color: #262626;*/
+
+    background: url("../img/boo.jpg") no-repeat center 250px #015CAB;
+    background-size: 600px;
 }
+
+h1 {
+    font-size: 150px;
+    margin-bottom: 350px;
+    margin-left: -10px;
+    -webkit-text-stroke: .07em rgba(0,0,0,.5);
+    text-shadow: .07em 0 #DA7339;
+}
+
 .content {
     width: 100%;
     text-align: center;
-    position: absolute;
+    /*position: absolute;*/
     bottom: 10%;
     left: 0;
 }

@@ -9,7 +9,8 @@
 </head>
 <body>
 <div class="content">
-    <a href="/">Перейти к главной странице</a><br>
+    <h1>404</h1>
+    <a href="#">Перейти к главной странице</a><br>
 </div>
 
 </body>

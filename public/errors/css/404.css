@@ -8,12 +8,22 @@ html, body {
     font-size: 16px;
 }
 body {
-    background: url('/public/errors/img/404.png') center no-repeat #262626;
+
+    background: url("../img/404.jpg") no-repeat center 250px #404145;
+    background-size: 600px;
 }
+
+h1 {
+    font-size: 150px;
+    margin-bottom: 350px;
+    -webkit-text-stroke: .07em rgba(0,0,0,.5);
+    text-shadow: .07em 0 red;
+}
+
 .content {
     width: 100%;
     text-align: center;
-    position: absolute;
+    /*position: absolute;*/
     bottom: 10%;
     left: 0;
 }
