@@ -2,13 +2,13 @@
 
 namespace app\controllers;
 
-use core\Controller;
-
-class MainController extends Controller
+class MainController extends AppController
 {
-    public string $view = 'own';
-
-    public function indexAction(){
-        echo __METHOD__;
+    public function indexAction()
+    {
+        $slides = $this->model->getSlidesForSlider();
+        $products = $this->model->getHits(1, 100);
+        $categories = $this->model->getCategory(1);
+        $this->setData(compact('slides', 'products', 'categories'));
     }
 }

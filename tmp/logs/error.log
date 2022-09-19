@@ -1,6 +1,68 @@
-[Monday 29th of August 2022 06:51:23 PM] Ошибка: Undefined variable: noarr | Файл: C:\OpenServer\domains\simple-mvc\public\index.php | Строка: 9
+[Monday 19th of September 2022 02:17:42 PM] Ошибка: Fail connection to database | Файл: C:\OSPanel\domains\shop.loc\vendor\core\DataBaseConnection.php | Строка: 15
 
-[Wednesday 31st of August 2022 05:51:59 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\simple-mvc\vendor\core\Router.php | Строка: 38
+[Monday 19th of September 2022 02:21:22 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
 
-[Wednesday 31st of August 2022 05:52:47 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\simple-mvc\vendor\core\Router.php | Строка: 38
+[Monday 19th of September 2022 02:32:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 02:32:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 03:03:27 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:06:40 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:07:11 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:17:13 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 04:47:14 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:49:07 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:52:48 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:52:53 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:54:49 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:13 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:15 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:17 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:02:34 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:03:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:03:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:03:29 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:13:21 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:15:56 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:15:58 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:19:21 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:20:22 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:20:42 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:38:50 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:39:29 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:41:08 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:55:06 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:56:08 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:56:11 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:56:12 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:58:05 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
 

@@ -10,7 +10,7 @@ define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'simple-mvc');
-define("PATH", 'http://simple-mvc');
-define("ADMIN", 'http://simple-mvc/admin');
+define("PATH", 'http://shop');
+define("ADMIN", 'http://shop/admin');
 
 require_once ROOT . '/vendor/autoload.php';
