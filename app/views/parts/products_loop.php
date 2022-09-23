@@ -7,7 +7,7 @@ foreach ($products as $product) : ?>
             </div>
             <div class="product-details">
                 <h4><a href="product/<?= $product['slug']; ?>"><?= $product['title']; ?></a></h4>
-                <p><?= $product['exept']; ?></p>
+                <p><?= $product['exerpt']; ?></p>
                 <div class="product-bottom-details d-flex justify-content-between">
                     <div class="product-price">
                         <?php if ($product['old_price']) : ?>
